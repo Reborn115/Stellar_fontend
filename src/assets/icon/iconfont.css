@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4235627 */
+  src: url('iconfont.woff2?t=1694159609253') format('woff2'),
+       url('iconfont.woff?t=1694159609253') format('woff'),
+       url('iconfont.ttf?t=1694159609253') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chuangjiantianjiapiliangtianjia:before {
+  content: "\e624";
+}
+
+.icon-jichushujuluru:before {
+  content: "\e6a0";
+}
+
+.icon-Union-45:before {
+  content: "\e62f";
+}
+
+.icon-Union-44:before {
+  content: "\e630";
+}
+
+.icon-Union-46:before {
+  content: "\e631";
+}
+
+.icon-Union-47:before {
+  content: "\e632";
+}
+
+.icon-Union-48:before {
+  content: "\e634";
+}
+
+.icon-pinleijianshao_o:before {
+  content: "\eb7e";
+}
+
+.icon-pinleizengjia_o:before {
+  content: "\eb7f";
+}
+
+.icon-shanchu:before {
+  content: "\e8b6";
+}
+
+.icon-bianjixian:before {
+  content: "\e60c";
+}
+
+.icon-chakan-copy:before {
+  content: "\e62b";
+}
+
+.icon-order-manager:before {
+  content: "\e617";
+}
+
+.icon-jiancha:before {
+  content: "\e633";
+}
+
+.icon-REXpaiduijiaohao_:before {
+  content: "\e628";
+}
+
+.icon-paiduijiaohao_xianxing:before {
+  content: "\e694";
+}
+
+.icon-ICON_HAOCAIGUANLI:before {
+  content: "\e72e";
+}
+
+.icon-xiazai17:before {
+  content: "\e611";
+}
+
